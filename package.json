@@ -1,0 +1,25 @@
+{
+  "name": "compare-sets",
+  "version": "1.0.0",
+  "description": "Given two sets, `compare-sets` will return sets of the added, retained, and removed items",
+  "main": "compare-sets.js",
+  "scripts": {
+    "test": "nodeunit compare-sets-specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kuychaco/compare-sets.git"
+  },
+  "keywords": [
+    "set"
+  ],
+  "author": "Katrina Uychaco <kuychaco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuychaco/compare-sets/issues"
+  },
+  "homepage": "https://github.com/kuychaco/compare-sets#readme",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
