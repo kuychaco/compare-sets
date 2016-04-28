@@ -1,6 +1,6 @@
 # compare-sets
 
-Given two sets, `compare-sets` will return sets of the added, retained, and removed items
+Given two sets, *compare-sets* will return sets of the added, retained, and removed items
 
 ## Installation
 
